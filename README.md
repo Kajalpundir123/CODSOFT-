@@ -8,6 +8,16 @@ IDE: Netbeans
 My Task is to create a Number Gusessing Game in Java. The game will  randomly generate a number  between 1 to 100 .The user will be given 10 tries to guess the number correctly. If they guess the number correctly., they will win the game . Otherwsie, they will lose.
 <br/>
 
+#WORD COUNTER
+Task -2: Word Counter
+</br>
+Language: Core Java
+<br/>
+IDE: Visual Studio Code
+<br/>
+
+
+
 
 # ATM INTERFACE
 Task-3: ATM Interface
