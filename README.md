@@ -36,7 +36,8 @@ MY task is  create a simple word counter which is GUI system that allows user to
 ![IMG20231009131622](https://github.com/Kajalpundir123/CODSOFT-/assets/146796878/c19ba03c-7fec-456a-8a62-28b3ed7d4bd2)
 
 # ATM INTERFACE
-https://github.com/Kajalpundir123/CODSOFT-.git
+https://github.com/Kajalpundir123/CODSOFT-/tree/main/CodSoft_Task_3
+<br/>
 Task-3: ATM Interface
 <br/>
 Language: Core Java
