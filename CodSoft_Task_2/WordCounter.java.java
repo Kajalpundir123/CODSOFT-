@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class WordCounter
+{
+     public static void main(String args[]) 
+    {
+      Scanner scanner=new Scanner(System.in);
+      System.out.println("Enter a setence or text:");
+      String input=scanner.nextLine();
+      int wordCount=countWords(input);
+      System.out.println("Word Count:" + wordCount);
+      scanner.close();
+     }
+     public static int countWords(String input)
+     {
+        if(input == null|| input.isEmpty())
+        {
+            return 0;
+        }
+        String [] words = input.split("\\s+");// Split the input by whitespace
+        return words.length;
+     }
+}
