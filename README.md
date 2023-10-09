@@ -1,4 +1,5 @@
-# NUMBER GAME   
+# NUMBER GAME  
+https://github.com/Kajalpundir123/CODSOFT-.git
 Task -1: Number Game
 <br/>
 Language: Core Java
@@ -18,6 +19,7 @@ My Task is to create a Number Gusessing Game in Java. The game will  randomly ge
 
 # WORD COUNTER
 Task -2: Word Counter
+https://github.com/Kajalpundir123/CODSOFT-.git
 </br>
 Language: Core Java
 <br/>
@@ -32,6 +34,7 @@ MY task is  create a simple word counter which is GUI system that allows user to
 ![IMG20231009131622](https://github.com/Kajalpundir123/CODSOFT-/assets/146796878/c19ba03c-7fec-456a-8a62-28b3ed7d4bd2)
 
 # ATM INTERFACE
+https://github.com/Kajalpundir123/CODSOFT-.git
 Task-3: ATM Interface
 <br/>
 Language: Core Java
