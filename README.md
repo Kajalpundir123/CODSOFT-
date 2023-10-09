@@ -15,6 +15,7 @@ Language: Core Java
 <br/>
 IDE: Visual Studio Code
 <br/>
+MY task is  create a simple word counter which is GUI system that allows user to easily count the words written in the TextArea using button. Users may very qucikly count the word using the simple design and so on. Methods used in the project split(),and zactionPerformed().
 
 
 
