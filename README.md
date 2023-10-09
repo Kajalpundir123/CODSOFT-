@@ -19,6 +19,8 @@ My Task is to create a Number Gusessing Game in Java. The game will  randomly ge
 
 
 # WORD COUNTER
+https://github.com/Kajalpundir123/CODSOFT-/tree/main/CodSoft_Task_2
+<br/>
 Task -2: Word Counter
 https://github.com/Kajalpundir123/CODSOFT-.git
 </br>
