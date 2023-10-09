@@ -1,5 +1,6 @@
 # NUMBER GAME  
-https://github.com/Kajalpundir123/CODSOFT-.git
+https://github.com/Kajalpundir123/CODSOFT-/tree/main/CodSoft_Task1
+<br/>
 Task -1: Number Game
 <br/>
 Language: Core Java
