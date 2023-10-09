@@ -1,4 +1,4 @@
-# NUMBER GAME   CodSoft_Task/src/codsoft_task/Number_Game.java
+# NUMBER GAME   
 Task -1: Number Game
 <br/>
 Language: Core Java
